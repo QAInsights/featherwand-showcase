@@ -1,4 +1,4 @@
-# Feather Wand- Showcase
+# Feather Wand Showcase
 
 Please submit a PR if you find [Feather Want](https://jmeter.ai) useful. 
 
