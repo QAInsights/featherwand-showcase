@@ -1,6 +1,6 @@
 # Feather Wand Showcase
 
-Please submit a PR if you find [Feather Want](https://jmeter.ai) useful. 
+Please submit a PR if you find [Feather Wand](https://jmeter.ai) useful. 
 
 ## Cymbal Bank (formerly known as Bank of Anthos)
 
